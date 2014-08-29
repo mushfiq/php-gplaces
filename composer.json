@@ -1,0 +1,14 @@
+{
+    "name": "mushfiq/googleplaceapi",
+    "description": "A simple PHP wrapper for accessing Google Place API",
+    "require": {
+        "phpunit/phpunit": "4.1.*"
+    },
+    "license": "wtfpl",
+    "authors": [
+        {
+            "name": "Mushfiq",
+            "email": "mushfiq.it@gmail.com"
+        }
+    ]
+}
